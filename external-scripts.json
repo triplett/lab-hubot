@@ -1,4 +1,5 @@
 [
+  "hubot-github-repo-event-notifier"
   "hubot-diagnostics",
   "hubot-help",
   "hubot-heroku-keepalive",
