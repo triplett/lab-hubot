@@ -10,4 +10,6 @@ has, etc!
 
 ## Deployment
 
+Get secret keys from Austin.
+
 `git push heroku master`
