@@ -10,6 +10,4 @@ has, etc!
 
 ## Deployment
 
-Get secret keys from Austin.
-
-`git push heroku master`
+Running on mp6.local in tmux. Do `tmux -a hubot`
