@@ -6,20 +6,26 @@
   "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot": "^2.11.0",
+    "hubot-business-cat": "^1.1.10",
+    "hubot-computerdogs": "0.0.1",
+    "hubot-cool-ascii-faces": "^1.0.10",
+    "hubot-darksky": "^1.0.2",
     "hubot-diagnostics": "0.0.1",
+    "hubot-github-repo-event-notifier": ">= 0.0.0",
+    "hubot-gitlab-hooks": "0.0.7",
     "hubot-google-images": "^0.1.2",
     "hubot-google-translate": "^0.1.0",
     "hubot-help": "^0.1.1",
-    "hubot-heroku-keepalive": "0.0.4",
     "hubot-maps": "0.0.1",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.2",
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
+    "hubot-seen": "^0.2.2",
     "hubot-shipit": "^0.1.1",
     "hubot-slack": "^3.2.1",
-    "hubot-youtube": "^0.1.2",
-    "hubot-github-repo-event-notifier": ">= 0.0.0"
+    "hubot-uptimerobot": "0.0.3",
+    "hubot-youtube": "^0.1.2"
   },
   "engines": {
     "node": "0.10.x"
