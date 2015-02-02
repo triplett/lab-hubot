@@ -2,7 +2,6 @@
   "hubot-github-repo-event-notifier",
   "hubot-diagnostics",
   "hubot-help",
-  "hubot-heroku-keepalive",
   "hubot-google-images",
   "hubot-google-translate",
   "hubot-pugme",
@@ -12,5 +11,11 @@
   "hubot-shipit",
   "hubot-youtube",
   "hubot-heroku-keepalive",
+  "hubot-business-cat",
+  "hubot-seen",
+  "hubot-uptimerobot",
   "hubot-script-ical"
+  "hubot-computerdogs",
+  "hubot-cool-ascii-faces",
+  "hubot-darksky"
 ]
